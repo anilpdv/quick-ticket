@@ -44,3 +44,6 @@ next-env.d.ts
 .env.sentry-build-plugin
 
 /app/generated/prisma
+
+# commit tracking (local only)
+.commit-tracker/
